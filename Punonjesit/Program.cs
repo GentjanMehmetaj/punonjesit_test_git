@@ -25,12 +25,23 @@ namespace Punonjesit
                 HourlyPay = 500,
                 TotalHoursWorked = 40
             };
+            punonjesPartTime ptp1 = new punonjesPartTime
+            {
+                FirstName = "albert",
+                Id = 3,
+                LastName = "ainshtain",
+                HourlyPay = 400,
+                TotalHoursWorked = 30
+            };
 
             Console.WriteLine(FTP.GetFulName());
             Console.WriteLine(FTP.GetMonthlySalary());
             Console.WriteLine("-------");
             Console.WriteLine(PTP.GetFulName());
             Console.WriteLine(PTP.GetMonthlySalary());
+            Console.WriteLine("-------");
+            Console.WriteLine(ptp1.GetFulName());
+            Console.WriteLine(ptp1.GetMonthlySalary());
         }
     }
 }
