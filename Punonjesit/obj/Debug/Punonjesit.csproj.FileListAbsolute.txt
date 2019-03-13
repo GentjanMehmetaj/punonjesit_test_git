@@ -1,0 +1,7 @@
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\obj\Debug\Punonjesit.csprojAssemblyReference.cache
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\obj\Debug\Punonjesit.csproj.CoreCompileInputs.cache
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\bin\Debug\Punonjesit.exe.config
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\bin\Debug\Punonjesit.exe
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\bin\Debug\Punonjesit.pdb
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\obj\Debug\Punonjesit.exe
+C:\Users\albana\source\repos\Punonjesit\Punonjesit\obj\Debug\Punonjesit.pdb
