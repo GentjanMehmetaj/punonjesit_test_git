@@ -11,7 +11,7 @@ namespace Punonjesit
         static void Main(string[] args)
         {
             punonjesFulltime FTP = new punonjesFulltime
-            {
+            {  //comment to commit 
                 Id = 1,
                 FirstName = "Gentjan",
                 LastName = "Mehmetaj",
